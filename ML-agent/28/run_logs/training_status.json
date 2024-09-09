@@ -1,0 +1,23 @@
+{
+    "Vehicle": {
+        "checkpoints": [
+            {
+                "steps": 1280,
+                "file_path": "results\\28\\Vehicle\\Vehicle-1280.onnx",
+                "reward": null,
+                "creation_time": 1725894805.922947
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1280,
+            "file_path": "results\\28\\Vehicle.onnx",
+            "reward": null,
+            "creation_time": 1725894805.922947
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.13.1"
+    }
+}
